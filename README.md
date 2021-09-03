@@ -7,6 +7,10 @@ Couldn't really find something like this so I've made one myself.
 
 ***
 
+### Screenshots
+![monke](/Assets/monke.png "monke") <br>
+![ss](/Assets/ss.png "ss")
+
 ### Requirements
 - macOS 10.11 or newer
 
