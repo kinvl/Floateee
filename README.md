@@ -8,7 +8,7 @@ Couldn't really find something like this so I've made one myself.
 ***
 
 ### Requirements
-- macOS 10.9 or newer
+- macOS 10.11 or newer
 
 ### To Do
 - Option to create multiple windows 
